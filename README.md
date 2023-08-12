@@ -6,4 +6,8 @@ the script have some flaws like :
 #do not have the ability to stop theattacks using mouse 
 #users can type as fast as the typing speed limit since it uses the time interval when different  key was pressed 
 
+by the way i have NOT test it in the real situation ,but based on the theory i think i might words 
+the test will be done in about a week
+
+if there is any thing to do to make it better ,please give the comments below
 
