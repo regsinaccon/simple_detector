@@ -3,12 +3,12 @@ import time
 import start
 import controlkey
 import speedtest
-#import is_usb_in
+
 
 
 
 operating_system=start.get_system()
-#now_drives=start.find_drive(start.get_system())
+
 if operating_system=="Windows":
     print("THIS TOOL MUST BE RUN AS ADMIN")
     print("START DETECTING")
